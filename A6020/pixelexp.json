@@ -1,11 +1,11 @@
 {
-    "response": [
+  "response": [
     {
-      "datetime": ,
+      "datetime": 0000000000, // values as given on ro.build.date.utc
       "filename": "",
-      "id": "863b3d03451b6646caf31647829010a0",
+      "id": "123456789abcdef0123456789abdcdef", // MD5 of your build
       "romtype": "UNOFFICIAL",
-      "size": 546517722,
+      "size": 123456789, // size in bytes; ls -l your zip file and copy that
       "url": "github release",
       "version": "10"
     }
